@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+## Hello!
 
-You can use the [editor on GitHub](https://github.com/4kura/4kura.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is sample site. This site is written in Japanese.
+このサイトはサンプルです。開いてしまった方は、速やかにブラウザバックしてね。
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+マークダウン形式は、あなたが入力した文字をそのままスタイリングしてくれる、簡単で使いやすい構文です。
 ```markdown
 Syntax highlighted code block
 
@@ -25,13 +23,12 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+↑コードを強調するための構文らしい。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### このページについて
 
-### Jekyll Themes
+[このページの保管場所](https://github.com/4kura/4kura.github.io/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/4kura/4kura.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 編集方法
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+githubのcodeから編集できます。
